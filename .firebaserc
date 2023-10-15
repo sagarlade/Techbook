@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "techbook-79ed4": {
+      "hosting": {
+        "Techbook": [
+          "techbook-79ed4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "techbook-79ed4"
+  }
+}

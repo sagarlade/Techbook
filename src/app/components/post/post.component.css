@@ -1,0 +1,12 @@
+.action-item {
+    margin-left: .5em;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+.posts-u{
+    margin: 2rem 0;
+}
+.posts-u img{
+    height: 40vh;
+}
